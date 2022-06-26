@@ -1,9 +1,9 @@
-﻿int a=5;
-int b=7;
-int max1= a;
-if(b>max1) max1=b;
-Console.Write("Max1=");
-Console.WriteLine(max1);
+﻿int a=5;                // Вводим число 5
+int b=7;                 // Вводим число 7
+int max1= a;               // Говориим что а Это махимум
+if(b>max1) max1=b;                //Проверяем истенность и вводим условия. Спрашиваем b> чем мах и если больше b= мах
+Console.Write("Max1=");               //выводит "мах"
+Console.WriteLine(max1);                 //выводит значения мах
 
 int c=2;
 int d=10;
