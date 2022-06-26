@@ -1,12 +1,12 @@
 ﻿// Нахождения большеего между 2 3 7
-int a=2;
-int b=3;
-int c=7;
-int max= a;
-if(b>max) max=b;
-if(c>max) max=c;
-Console.Write("Max=");
-Console.WriteLine(max);
+int a=2;                            //Вводим число 2
+int b=3;                               //Вводим число 3
+int c=7;                                    //Вводим число 7
+int max= a;                            //Говорим что а это мах
+if(b>max) max=b;                        //Условия , если b>мах то b=мах
+if(c>max) max=c;                        //Условия , если c>max то c+max
+Console.Write("Max=");                // выводи слова "max"
+Console.WriteLine(max);                  //вывод мах
 
 // Нахождения большеего между 44 5 78
 int a1=44;
