@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\bin\Debug\net6.0\Dop-zadanie2.exe
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\bin\Debug\net6.0\Dop-zadanie2.deps.json
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\bin\Debug\net6.0\Dop-zadanie2.runtimeconfig.json
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\bin\Debug\net6.0\Dop-zadanie2.dll
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\bin\Debug\net6.0\Dop-zadanie2.pdb
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.dll
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\refint\Dop-zadanie2.dll
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.pdb
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\Dop-zadanie2.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Praktika_C#\Dop-zadanie2\obj\Debug\net6.0\ref\Dop-zadanie2.dll
